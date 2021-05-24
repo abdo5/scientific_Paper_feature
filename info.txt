@@ -4,3 +4,5 @@
 This is a an assignment for the seminar:
 The Scientific Paper of the Future
 
+The figures are in:
+https://doi.org/10.6084/m9.figshare.14663322
